@@ -1,0 +1,16 @@
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\Lesson7.exe
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\Lesson7.deps.json
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\Lesson7.runtimeconfig.json
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\Lesson7.runtimeconfig.dev.json
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\Lesson7.dll
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\ref\Lesson7.dll
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\bin\Debug\net5.0\Lesson7.pdb
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.csprojAssemblyReference.cache
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.AssemblyInfo.cs
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.dll
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\ref\Lesson7.dll
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.pdb
+C:\Users\c1aym\source\repos\Lesson7\Lesson7\obj\Debug\net5.0\Lesson7.genruntimeconfig.cache
