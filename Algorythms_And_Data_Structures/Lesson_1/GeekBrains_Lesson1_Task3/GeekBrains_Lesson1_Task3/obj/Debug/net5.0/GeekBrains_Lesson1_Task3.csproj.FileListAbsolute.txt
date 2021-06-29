@@ -1,0 +1,16 @@
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\GeekBrains_Lesson1_Task3.exe
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\GeekBrains_Lesson1_Task3.deps.json
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\GeekBrains_Lesson1_Task3.runtimeconfig.json
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\GeekBrains_Lesson1_Task3.runtimeconfig.dev.json
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\GeekBrains_Lesson1_Task3.dll
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\ref\GeekBrains_Lesson1_Task3.dll
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\bin\Debug\net5.0\GeekBrains_Lesson1_Task3.pdb
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.csprojAssemblyReference.cache
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.AssemblyInfoInputs.cache
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.AssemblyInfo.cs
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.csproj.CoreCompileInputs.cache
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.dll
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\ref\GeekBrains_Lesson1_Task3.dll
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.pdb
+C:\Users\c1aymore\RiderProjects\GeekBrains_Lesson1_Task3\GeekBrains_Lesson1_Task3\obj\Debug\net5.0\GeekBrains_Lesson1_Task3.genruntimeconfig.cache
